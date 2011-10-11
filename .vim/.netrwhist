@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/usr/local/include'
+let g:netrw_dirhist_2='/home/pabbeel/rll/code/trunk/surgical/ThreadVision_DiscreteRods'
+let g:netrw_dirhist_3='/home/sameep/rll-git/surgical/.git'
+let g:netrw_dirhist_4='/usr/NX/scripts'
+let g:netrw_dirhist_5='/usr/NX/home/nx'
+let g:netrw_dirhist_6='/etc/X11'
+let g:netrw_dirhist_7='/home/sameep/rll-git/surgical/MotionPlanning'
+let g:netrw_dirhist_8='/home/sameep/rll-gitosis-admin/keydir'
